@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\grpcClient",
+    "\\grpcClient\\obj\\Debug",
+    "\\grpcClient\\obj\\Release\\net9.0",
+    "\\grpcClient\\obj\\Release\\net9.0\\ref",
+    "\\grpcClient\\Protos",
+    "\\grpcServer",
+    "\\grpcServer\\obj\\Debug\\net9.0",
+    "\\grpcServer\\obj\\Debug\\net9.0\\Protos",
+    "\\grpcServer\\Services"
+  ],
+  "SelectedNode": "\\grpcServer\\Services\\MessageService.cs",
+  "PreviewInSolutionExplorer": false
+}
